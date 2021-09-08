@@ -37,4 +37,8 @@ public class FirstNonRepeatableChar {
                 System.out.println("No Non Repeating character");
         }
     }
+
+    public void optimized(String s){
+
+    }
 }
